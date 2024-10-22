@@ -1,0 +1,16 @@
+[Alterator Entry]
+Type = Backend
+Module = executor
+Name = component_fortune_cow_rainbow
+Interface = component1
+
+[Info]
+execute = cat /usr/share/alterator/components/example1/example1.component
+stdout_bytes = enabled
+
+[Description]
+execute = /usr/lib/alterator-interface-component/basic_get_component_description /usr/share/alterator/components/example1
+stdout_strings = enabled
+
+[Status]
+execute = /usr/lib/alterator-interface-component/basic_check_component_installed /usr/share/alterator/components/example1/example1.component

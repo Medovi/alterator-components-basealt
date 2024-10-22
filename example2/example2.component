@@ -1,0 +1,10 @@
+[Alterator Entry]
+Type = Component
+Name = rust_dev_tools
+DisplayName = Rust development tools
+DisplayName[ru] = Инструменты разработки Rust
+Comment[en] = This component is meant just for testing and provides everything you need to develop basic Rust applications
+Comment[ru] = Это тестовый компонент, который предоставляет всё, что нужно для разработки на Rust
+
+Category = ExampleCompCat2
+Packages = rust rust-cargo rust-analyzer

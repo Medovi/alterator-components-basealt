@@ -1,0 +1,16 @@
+[Alterator Entry]
+Type = Backend
+Module = executor
+Name = component_rainbow_fetch
+Interface = component1
+
+[Info]
+execute = cat /usr/share/alterator/components/example3/example3.component
+stdout_bytes = enabled
+
+[Description]
+execute = /usr/lib/alterator-interface-component/basic_get_component_description /usr/share/alterator/components/example3
+stdout_strings = enabled
+
+[Status]
+execute = /usr/lib/alterator-interface-component/basic_check_component_installed /usr/share/alterator/components/example3/example3.component

@@ -1,0 +1,10 @@
+[Alterator Entry]
+Type = Component
+Name = rainbow_fetch
+DisplayName = Almost fun component
+DisplayName[ru] = Почти весёлый конвейер
+Comment[en] = This component is meant just for testing and provides everything you need to run neofetch | lolcat
+Comment[ru] = Это тестовый компонент, который предоставляет всё, что нужно для запуска neofetch | lolcat
+
+Packages = neofetch lolcat
+Category = ExampleCompCat3

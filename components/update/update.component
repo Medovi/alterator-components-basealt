@@ -1,0 +1,7 @@
+[Alterator Entry]
+Type = Component
+Name = update
+Category = 20-server-apps
+DisplayName = Update server
+DisplayName[ru_RU] = Сервер обновления
+Packages = admc 

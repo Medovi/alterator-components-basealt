@@ -1,0 +1,7 @@
+[Alterator Entry]
+Type = Component
+Name = remoteSSH
+Category = category-3
+DisplayName = SSH connecting
+DisplayName[ru_RU] = Подключение по SSH
+Packages = admc 

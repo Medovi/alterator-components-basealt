@@ -1,3 +1,3 @@
-# Component dhcp-server-a
+# Компонент dhcp-server-a
 
-This dhcp-server-a
+Это dhcp-server-a

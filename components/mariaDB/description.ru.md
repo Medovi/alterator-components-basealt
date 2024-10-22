@@ -1,0 +1,3 @@
+# Компонент mariaDB
+
+Это mariaDB

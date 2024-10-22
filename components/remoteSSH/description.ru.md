@@ -1,0 +1,3 @@
+# Компонент remoteSSH
+
+Это remoteSSH

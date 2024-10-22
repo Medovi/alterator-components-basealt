@@ -1,0 +1,7 @@
+[Alterator Entry]
+Type = Component
+Name = nginx
+Category = category-2
+DisplayName = Web-server Nginx
+DisplayName[ru_RU] = Web-сервер Nginx
+Packages = admc 

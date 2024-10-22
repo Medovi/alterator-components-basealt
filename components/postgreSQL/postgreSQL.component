@@ -1,0 +1,7 @@
+[Alterator Entry]
+Type = Component
+Name = postgreSQL
+Category = category-1
+DisplayName = Databases PostgreSQL
+DisplayName[ru_RU] = Базы данных PostgreSQL
+Packages = admc 

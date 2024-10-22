@@ -1,0 +1,3 @@
+# Компонент logging
+
+Это logging

@@ -1,7 +1,7 @@
 [Alterator Entry]
 Type = Backend
 Module = executor
-Name = component__dhcp_server_a
+Name = component_dhcp_server_a
 Interface = component1
 
 [Info]

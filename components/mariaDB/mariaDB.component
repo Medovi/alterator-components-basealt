@@ -1,0 +1,7 @@
+[Alterator Entry]
+Type = Component
+Name = mariaDB
+Category = category-1
+DisplayName = Databases MariaDB
+DisplayName[ru_RU] = Базы данных MariaDB
+Packages = admc 

@@ -1,0 +1,7 @@
+[Alterator Entry]
+Type = Component
+Name = remoteVNC
+Category = category-3
+DisplayName = Server VNC
+DisplayName[ru_RU] = Сервер VNC
+Packages = admc 

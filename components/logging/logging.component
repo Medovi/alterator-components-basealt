@@ -1,0 +1,7 @@
+[Alterator Entry]
+Type = Component
+Name = logging
+Category = 20-server-apps
+DisplayName = Logging server
+DisplayName[ru_RU] = Сервер журналирования
+Packages = admc 

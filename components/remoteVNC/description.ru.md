@@ -1,0 +1,3 @@
+# Компонент remoteVNC
+
+Это remoteVNC

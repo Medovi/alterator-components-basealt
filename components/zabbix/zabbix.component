@@ -1,0 +1,7 @@
+[Alterator Entry]
+Type = Component
+Name = zabbix
+Category = 20-server-apps
+DisplayName = Zabbix authentication server
+DisplayName[ru_RU] = Сервер аутентификации Zabbix
+Packages = admc 

@@ -1,0 +1,3 @@
+# Component pidgin
+
+This pidgin

@@ -1,0 +1,7 @@
+[Alterator Entry]
+Type = Component
+Name = admc
+Category = 801-grp-pol
+DisplayName = Administration tools
+DisplayName[ru_RU] = Инструменты администрирования
+Packages = admc gpui 

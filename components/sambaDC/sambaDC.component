@@ -1,0 +1,7 @@
+[Alterator Entry]
+Type = Component
+Name = sambaDC
+Category = 20-server-apps
+DisplayName = Samba DC Server (AD controller)
+DisplayName[ru_RU] = Сервер Samba DC (контроллер AD)
+Packages = task-samba-dc krb5-kinit ldb-tools samba-dc samba-winbind-clients samba-doc bind-utils ldap-user-tools task-auth-ad-sssd 

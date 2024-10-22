@@ -1,0 +1,7 @@
+[Alterator Entry]
+Type = Component
+Name = freenx-server
+Category = 20-server-apps
+DisplayName = FreeNX Server
+DisplayName[ru_RU] = Сервер FreeNX
+Packages = freenx-server 

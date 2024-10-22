@@ -1,0 +1,7 @@
+[Alterator Entry]
+Type = Component
+Name = nm-daemon
+Category = 901-net-if-mgt
+DisplayName = NetworkManager daemon
+DisplayName[ru_RU] = Система управления NetworkManager
+Packages = NetworkManager-daemon 

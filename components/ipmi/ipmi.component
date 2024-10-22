@@ -1,0 +1,7 @@
+[Alterator Entry]
+Type = Component
+Name = ipmi
+Category = 20-server-apps
+DisplayName = IPMI tools
+DisplayName[ru_RU] = Утилиты для поддержки IPMI
+Packages = freeipmi-bmc-watchdog ipmitool freeipmi-doc freeipmi 

@@ -1,0 +1,7 @@
+[Alterator Entry]
+Type = Component
+Name = gpupdate
+Category = 801-grp-pol
+DisplayName = Client (means of application)
+DisplayName[ru_RU] = Клиент (средства применения)
+Packages = gpupdate alterator-gpupdate task-auth-ad-sssd 

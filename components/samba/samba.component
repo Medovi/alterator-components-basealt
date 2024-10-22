@@ -1,0 +1,7 @@
+[Alterator Entry]
+Type = Component
+Name = samba
+Category = 20-server-apps
+DisplayName = Samba Server
+DisplayName[ru_RU] = Сервер Samba
+Packages = samba samba-common-tools samba-usershares samba-client 

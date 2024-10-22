@@ -1,0 +1,7 @@
+[Alterator Entry]
+Type = Component
+Name = freeipa-server
+Category = 50-freeipa
+DisplayName = FreeIPA domain server
+DisplayName[ru_RU] = Сервер домена FreeIPA
+Packages = freeipa-server-trust-ad freeipa-server-dns freeipa-client libsss_sudo 

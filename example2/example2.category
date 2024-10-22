@@ -1,7 +1,0 @@
-[Alterator Entry]
-Type = Category
-Name = ExampleCompCat2
-DisplayName = Component category 2
-DisplayName[ru] = Категория компонентов 2
-Comment = Uranium, Neptunium, Plutonium
-Comment[ru] = Уран, Нептуний, Плутоний

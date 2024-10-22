@@ -1,0 +1,7 @@
+[Alterator Entry]
+Type = Component
+Name = openuds
+Category = 20-server-apps
+DisplayName = OpenUDS virtual desktop server
+DisplayName[ru_RU] = Сервер виртуальных рабочих столов OpenUDS
+Packages = openuds-server-nginx 

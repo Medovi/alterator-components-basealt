@@ -1,0 +1,16 @@
+[Alterator Entry]
+Type = Backend
+Module = executor
+Name = component_freeipa_client
+Interface = component1
+
+[Info]
+execute = cat /usr/share/alterator/components/freeipa-client/freeipa-client.component
+stdout_strings = enabled
+
+[Description]
+execute = /usr/lib/alterator-interface-component/basic_get_component_description /usr/share/alterator/components/freeipa-client
+stdout_strings = enabled
+
+[Status]
+execute = /usr/lib/alterator-interface-component/basic_check_component_installed /usr/share/alterator/components/freeipa-client/freeipa-client.component

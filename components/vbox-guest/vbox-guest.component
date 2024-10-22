@@ -1,0 +1,7 @@
+[Alterator Entry]
+Type = Component
+Name = vbox-guest
+Category = 80-desktop
+DisplayName = VirtualBox Guest Additions
+DisplayName[ru_RU] = Гостевые дополнения VirtualBox
+Packages = virtualbox-guest-additions 

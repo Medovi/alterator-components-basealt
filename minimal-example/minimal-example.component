@@ -1,4 +1,0 @@
-[Alterator Entry]
-Type = Component
-Name = minimal_component
-Packages = neovim

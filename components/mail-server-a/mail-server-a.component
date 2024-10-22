@@ -1,0 +1,7 @@
+[Alterator Entry]
+Type = Component
+Name = mail-server-a
+Category = 10-alterator
+DisplayName = Mail Server  (SMTP, IMAP, POP3)
+DisplayName[ru_RU] = Почтовый сервер (SMTP, IMAP, POP3)
+Packages = alterator-postfix-dovecot 

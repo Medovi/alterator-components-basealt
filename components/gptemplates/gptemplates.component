@@ -1,0 +1,7 @@
+[Alterator Entry]
+Type = Component
+Name = gptemplates
+Category = 801-grp-pol
+DisplayName = Group policy templates
+DisplayName[ru_RU] = Шаблоны групповых политик
+Packages = admx-basealt admx-firefox admx-chromium admx-yandex-browser admx-msi-setup 

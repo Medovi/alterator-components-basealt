@@ -1,0 +1,7 @@
+[Alterator Entry]
+Type = Component
+Name = pidgin
+Category = 80-desktop
+DisplayName = IM client
+DisplayName[ru_RU] = Обмен мгновенными сообщениями
+Packages = pidgin 

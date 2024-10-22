@@ -1,0 +1,7 @@
+[Alterator Entry]
+Type = Component
+Name = netinst
+Category = 10-alterator
+DisplayName = Network installation server
+DisplayName[ru_RU] = Сервер сетевой установки 
+Packages = alterator-netinst tftp-server ahttpd tftpd 

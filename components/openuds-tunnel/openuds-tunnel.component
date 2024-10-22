@@ -1,0 +1,7 @@
+[Alterator Entry]
+Type = Component
+Name = openuds-tunnel
+Category = 20-server-apps
+DisplayName = OpenUDS VDS tunneling
+DisplayName[ru_RU] = Сервер туннелирования виртуальных рабочих столов OpenUDS
+Packages = openuds-tunnel 

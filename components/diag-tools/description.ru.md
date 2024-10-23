@@ -1,3 +1,3 @@
-# Component diag-tools
+# Компонент diag-tools
 
-This diag-tools
+Это diag-tools

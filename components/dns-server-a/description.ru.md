@@ -1,3 +1,3 @@
-# Component dns-server-a
+# Компонент dns-server-a
 
-This dns-server-a
+Это dns-server-a

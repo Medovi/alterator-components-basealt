@@ -1,3 +1,3 @@
-# Component buildsystem
+# Компонент buildsystem
 
-This buildsystem
+Это buildsystem

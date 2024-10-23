@@ -1,3 +1,3 @@
-# Component emulators
+# Компонент emulators
 
-This emulators
+Это emulators

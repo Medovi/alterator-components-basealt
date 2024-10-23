@@ -1,3 +1,3 @@
-# Component ftp-server-a
+# Компонент ftp-server-a
 
-This ftp-server-a
+Это ftp-server-a

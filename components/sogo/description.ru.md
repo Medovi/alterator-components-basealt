@@ -1,3 +1,3 @@
-# Component sogo
+# Компонент sogo
 
-This sogo
+Это sogo

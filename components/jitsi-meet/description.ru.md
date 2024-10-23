@@ -1,3 +1,3 @@
-# Component jitsi-meet
+# Компонент jitsi-meet
 
-This jitsi-meet
+Это jitsi-meet

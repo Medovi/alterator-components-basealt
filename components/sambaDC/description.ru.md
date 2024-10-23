@@ -1,3 +1,3 @@
-# Component sambaDC
+# Компонент sambaDC
 
-This sambaDC
+Это sambaDC

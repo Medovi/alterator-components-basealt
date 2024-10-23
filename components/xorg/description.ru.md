@@ -1,3 +1,3 @@
-# Component xorg
+# Компонент xorg
 
-This xorg
+Это xorg

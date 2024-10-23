@@ -1,3 +1,3 @@
-# Component netinst
+# Компонент netinst
 
-This netinst
+Это netinst

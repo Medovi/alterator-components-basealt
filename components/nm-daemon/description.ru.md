@@ -1,3 +1,3 @@
-# Component nm-daemon
+# Компонент nm-daemon
 
-This nm-daemon
+Это nm-daemon

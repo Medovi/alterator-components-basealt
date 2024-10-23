@@ -1,3 +1,3 @@
-# Component freend-server
+# Компонент freend-server
 
-This freenx-server
+Это freenx-server

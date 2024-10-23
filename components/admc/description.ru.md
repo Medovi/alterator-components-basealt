@@ -1,3 +1,3 @@
-# Component admc
+# Компонент admc
 
-This admc
+Это admc

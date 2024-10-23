@@ -1,3 +1,3 @@
-# Component mate
+# Компонент mate
 
-This mate
+Это mate

@@ -1,3 +1,3 @@
-# Component vbox-host
+# Компонент vbox-host
 
-This vbox-host
+Это vbox-host

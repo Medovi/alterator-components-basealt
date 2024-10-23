@@ -1,0 +1,3 @@
+# Компонент scanning
+
+Это scanning

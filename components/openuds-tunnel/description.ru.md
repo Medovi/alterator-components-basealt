@@ -1,3 +1,3 @@
-# Component openuds-tunnel
+# Компонент openuds-tunnel
 
-This openuds-tunnel
+Это openuds-tunnel

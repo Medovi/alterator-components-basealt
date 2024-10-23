@@ -1,3 +1,3 @@
-# Component token
+# Компонент token
 
-This token
+Это token

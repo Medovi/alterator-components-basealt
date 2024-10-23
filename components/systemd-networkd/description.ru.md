@@ -1,3 +1,3 @@
-# Component system-networkd
+# Компонент system-networkd
 
-This system-networkd
+Это system-networkd

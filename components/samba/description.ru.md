@@ -1,3 +1,3 @@
-# Component samba
+# Компонент samba
 
-This samba
+Это samba

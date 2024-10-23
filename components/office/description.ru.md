@@ -1,3 +1,3 @@
-# Component office
+# Компонент office
 
-This office
+Это office

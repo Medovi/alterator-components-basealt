@@ -1,3 +1,3 @@
-# Component pidgin
+# Компонент pidgin
 
-This pidgin
+Это pidgin

@@ -1,3 +1,3 @@
-# Component gpupdate
+# Компонент gpupdate
 
-This gpupdate
+Это gpupdate

@@ -1,3 +1,3 @@
-# Component gptemplates
+# Компонент gptemplates
 
-This gptemplates
+Это gptemplates

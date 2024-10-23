@@ -1,4 +1,4 @@
-# Component proxmox-backup-server
+# Компонент proxmox-backup-server
 
-This proxmox-backup-server
+Это proxmox-backup-server
 

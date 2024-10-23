@@ -1,3 +1,3 @@
-# Component openuds
+# Компонент openuds
 
-This openuds
+Это openuds

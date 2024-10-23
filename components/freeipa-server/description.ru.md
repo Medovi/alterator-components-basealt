@@ -1,3 +1,3 @@
-# Component freeipa-server
+# Компонент freeipa-server
 
-This freeipa-server
+Это freeipa-server

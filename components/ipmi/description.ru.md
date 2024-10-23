@@ -1,3 +1,3 @@
-# Component ipmi
+# Компонент ipmi
 
-This ipmi
+Это ipmi

@@ -1,3 +1,3 @@
-# Component freeipa-client
+# Компонент freeipa-client
 
-This freeipa-client
+Это freeipa-client

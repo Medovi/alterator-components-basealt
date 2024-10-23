@@ -1,3 +1,3 @@
-# Component mail-server-a
+# Компонент mail-server-a
 
-This mail-server-a
+Это mail-server-a

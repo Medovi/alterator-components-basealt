@@ -1,7 +1,7 @@
 [Alterator Entry]
 Type = Component
 Name = emulators
-Category = 80-desktop
+Category = 
 DisplayName = Emulators
 DisplayName[ru_RU] = Эмуляторы
 Packages = firefox-esr firefox-esr-ru wine wine-mono-8.0.0 wine-gecko i586-wine i586-xorg-dri-* i586-libnss-mdns i586-libnss-myhostname dosbox i586-glib2 

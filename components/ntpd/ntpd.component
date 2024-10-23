@@ -1,0 +1,7 @@
+[Alterator Entry]
+Type = Component
+Name = ntpd
+Category = category-10
+DisplayName = NTPD
+DisplayName[ru_RU] = NTPD
+Packages =  

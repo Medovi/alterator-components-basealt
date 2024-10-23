@@ -1,0 +1,7 @@
+[Alterator Entry]
+Type = Component
+Name = systemd-timesyncd
+Category = category-10
+DisplayName = Systemd-Timesyncd
+DisplayName[ru_RU] = Systemd-Timesyncd
+Packages = 

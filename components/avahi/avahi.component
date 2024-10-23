@@ -1,0 +1,7 @@
+[Alterator Entry]
+Type = Component
+Name = avahi
+Category = 10-alterator
+DisplayName = Service Discovery (Avahi)
+DisplayName[ru_RU] = Обнаружение служб (Avahi)
+Packages = 

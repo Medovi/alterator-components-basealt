@@ -1,0 +1,7 @@
+[Alterator Entry]
+Type = Component
+Name = firewalld
+Category = category-11
+DisplayName = firewalld
+DisplayName[ru_RU] = firewalld
+Packages = 

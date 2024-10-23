@@ -1,0 +1,3 @@
+# Компонент firewalld
+
+Это firewalld

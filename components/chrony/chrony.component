@@ -1,0 +1,7 @@
+[Alterator Entry]
+Type = Component
+Name = chrony
+Category = category-10
+DisplayName = Chrony
+DisplayName[ru_RU] = Chrony
+Packages = 

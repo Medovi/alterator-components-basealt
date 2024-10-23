@@ -1,0 +1,7 @@
+[Alterator Entry]
+Type = Component
+Name = alterator
+Category = 10-alterator
+DisplayName = System configuration tool Alterator
+DisplayName[ru_RU] = Средство настройки системы Alterator
+Packages = 

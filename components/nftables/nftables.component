@@ -1,0 +1,7 @@
+[Alterator Entry]
+Type = Component
+Name = nftables
+Category = category-11
+DisplayName = ngtables
+DisplayName[ru_RU] = nftables
+Packages = 

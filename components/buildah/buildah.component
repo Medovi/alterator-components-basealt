@@ -1,0 +1,7 @@
+[Alterator Entry]
+Type = Component
+Name = buildah
+Category = category-12
+DisplayName = Buildah
+DisplayName[ru_RU] = Buildah
+Packages = 

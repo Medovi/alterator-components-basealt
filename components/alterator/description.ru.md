@@ -1,0 +1,3 @@
+# Компонент alterator
+
+Это alterator

@@ -1,0 +1,3 @@
+# Компонент iptables
+
+Это iptables

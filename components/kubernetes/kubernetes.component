@@ -1,0 +1,7 @@
+[Alterator Entry]
+Type = Component
+Name = kubernetes
+Category = category-12
+DisplayName = Kubernetes
+DisplayName[ru_RU] = Kubernetes
+Packages = 

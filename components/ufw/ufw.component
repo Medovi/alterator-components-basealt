@@ -1,0 +1,7 @@
+[Alterator Entry]
+Type = Component
+Name = ufw
+Category = category-11
+DisplayName = ufw
+DisplayName[ru_RU] = ufw
+Packages = 

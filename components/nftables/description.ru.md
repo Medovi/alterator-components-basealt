@@ -1,0 +1,3 @@
+# Компонент nftables
+
+Это nftables

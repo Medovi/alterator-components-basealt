@@ -1,0 +1,7 @@
+[Alterator Entry]
+Type = Component
+Name = podman
+Category = category-12
+DisplayName = Podman
+DisplayName[ru_RU] = Podman
+Packages = 

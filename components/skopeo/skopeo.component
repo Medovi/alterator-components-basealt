@@ -1,0 +1,7 @@
+[Alterator Entry]
+Type = Component
+Name = skopeo
+Category = category-12
+DisplayName = Skopeo
+DisplayName[ru_RU] = Skopeo
+Packages = 

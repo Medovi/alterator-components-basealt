@@ -1,0 +1,16 @@
+[Alterator Entry]
+Type = Backend
+Module = executor
+Name = component_chrony
+Interface = component1
+
+[Info]
+execute = cat /usr/share/alterator/components/chrony/chrony.component
+stdout_strings = enabled
+
+[Description]
+execute = /usr/lib/alterator-interface-component/basic_get_component_description /usr/share/alterator/components/chrony
+stdout_strings = enabled
+
+[Status]
+execute = /usr/lib/alterator-interface-component/basic_check_component_installed /usr/share/alterator/components/chrony/chrony.component

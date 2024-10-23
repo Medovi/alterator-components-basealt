@@ -1,0 +1,7 @@
+[Alterator Entry]
+Type = Component
+Name = docker
+Category = category-12
+DisplayName = Docker
+DisplayName[ru_RU] = Docker
+Packages = 

@@ -1,0 +1,7 @@
+[Alterator Entry]
+Type = Component
+Name = iptables
+Category = category-11
+DisplayName = iptables
+DisplayName[ru_RU] = iptables
+Packages = 

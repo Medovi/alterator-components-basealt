@@ -1,0 +1,3 @@
+# Компонент kubernetes
+
+Это kubernetes

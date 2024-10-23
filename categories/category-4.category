@@ -1,5 +1,5 @@
 [Alterator Entry]
 Type=Category
 Name=category-4
-DisplayName=DHCP-server
-DisplayName[ru_RU]=Сервер DHCP
+DisplayName=DHCP
+DisplayName[ru_RU]=DHCP

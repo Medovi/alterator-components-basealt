@@ -2,6 +2,6 @@
 Type = Component
 Name = dhcp-server-kea
 Category = category-4
-DisplayName = DHCP-server (kea)
-DisplayName[ru_RU] = DHCP-сервер (kea)
+DisplayName = Kea DHCP
+DisplayName[ru_RU] = Kea DHCP
 Packages = admc 

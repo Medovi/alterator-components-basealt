@@ -1,7 +1,7 @@
 [Alterator Entry]
 Type = Component
 Name = vbox-host
-Category = 
+Category = category-5
 DisplayName = VirtualBox for host system
 DisplayName[ru_RU] = VirtualBox для хост-системы
 Packages = virtualbox kernel-modules-virtualbox-std-def kernel-modules-virtualbox-un-def 

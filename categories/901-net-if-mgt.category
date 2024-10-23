@@ -1,5 +1,5 @@
 [Alterator Entry]
 Type=Category
 Name=901-net-if-mgt
-DisplayName=Network interface management system
-DisplayName[ru_RU]=Система управления сетевыми интерфейсами
+DisplayName=Network interfaces
+DisplayName[ru_RU]=Сетевые интерфейсы

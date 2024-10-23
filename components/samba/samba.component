@@ -2,6 +2,6 @@
 Type = Component
 Name = samba
 Category = 20-server-apps
-DisplayName = Samba Server
-DisplayName[ru_RU] = Сервер Samba
+DisplayName = Samba file server
+DisplayName[ru_RU] = Файловый сервер Samba
 Packages = samba samba-common-tools samba-usershares samba-client 

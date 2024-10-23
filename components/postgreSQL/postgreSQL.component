@@ -2,6 +2,6 @@
 Type = Component
 Name = postgreSQL
 Category = category-1
-DisplayName = Databases PostgreSQL
-DisplayName[ru_RU] = Базы данных PostgreSQL
+DisplayName = PostgreSQL
+DisplayName[ru_RU] = PostgreSQL
 Packages = admc 

@@ -2,6 +2,6 @@
 Type = Component
 Name = diag-tools
 Category = 20-server-apps
-DisplayName = Diagnostic tools
-DisplayName[ru_RU] = Утилиты для диагностики
+DisplayName = Diagnostic tools (adt and modules adt)
+DisplayName[ru_RU] = Утилиты для диагностики (adt и модули к adt)
 Packages = iftop lft mtr nmap scanssh tcptraceroute telnet whois minicom 

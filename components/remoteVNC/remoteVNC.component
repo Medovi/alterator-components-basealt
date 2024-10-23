@@ -2,6 +2,6 @@
 Type = Component
 Name = remoteVNC
 Category = category-3
-DisplayName = Server VNC
-DisplayName[ru_RU] = Сервер VNC
+DisplayName = VNC
+DisplayName[ru_RU] = VNC
 Packages = admc 

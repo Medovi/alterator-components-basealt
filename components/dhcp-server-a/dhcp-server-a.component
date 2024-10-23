@@ -2,6 +2,6 @@
 Type = Component
 Name = dhcp-server-a
 Category = category-4
-DisplayName = DHCP-server (alterator-dhcp)
-DisplayName[ru_RU] = DHCP-сервер (alterator-dhcp)
+DisplayName = DHCP
+DisplayName[ru_RU] = DHCP
 Packages = alterator-dhcp 

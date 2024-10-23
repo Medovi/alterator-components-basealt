@@ -2,6 +2,6 @@
 Type = Component
 Name = apache2
 Category = category-2
-DisplayName = Web-server Apache2
-DisplayName[ru_RU] = Web-сервер Apache2
+DisplayName = Apache2
+DisplayName[ru_RU] = Apache2
 Packages = admc 

@@ -2,6 +2,6 @@
 Type = Component
 Name = remoteSSH
 Category = category-3
-DisplayName = SSH connecting
-DisplayName[ru_RU] = Подключение по SSH
+DisplayName = SSH
+DisplayName[ru_RU] = SSH
 Packages = admc 

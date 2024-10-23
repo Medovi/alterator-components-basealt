@@ -1,7 +1,7 @@
 [Alterator Entry]
 Type = Component
 Name = owncloud
-Category = 20-server-apps
+Category = basic
 DisplayName = Nextcloud (1st system boot can take a long time)
 DisplayName[ru_RU] = Сервер Nextcloud (1-я загрузка системы может стать долгой)
 Packages = mariadb-server mariadb mariadb-server nextcloud nextcloud-apache2 installed-db-office-server-nextcloud 

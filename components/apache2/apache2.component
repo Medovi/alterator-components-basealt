@@ -1,7 +1,7 @@
 [Alterator Entry]
 Type = Component
 Name = apache2
-Category = category-2
+Category = advanced
 DisplayName = Apache2
 DisplayName[ru_RU] = Apache2
 Packages = admc 

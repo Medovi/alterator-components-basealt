@@ -1,7 +1,7 @@
 [Alterator Entry]
 Type = Component
 Name = dhcp-server-kea
-Category = category-4
+Category = basic
 DisplayName = Kea DHCP
 DisplayName[ru_RU] = Kea DHCP
 Packages = admc 

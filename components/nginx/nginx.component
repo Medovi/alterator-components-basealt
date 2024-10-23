@@ -1,7 +1,7 @@
 [Alterator Entry]
 Type = Component
 Name = nginx
-Category = category-2
+Category = advanced
 DisplayName = Nginx
 DisplayName[ru_RU] = Nginx
 Packages = admc 

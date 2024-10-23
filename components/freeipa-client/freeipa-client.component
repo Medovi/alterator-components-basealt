@@ -1,7 +1,7 @@
 [Alterator Entry]
 Type = Component
 Name = freeipa-client
-Category = 50-freeipa
+Category = advanced
 DisplayName = FreeIPA domain client
 DisplayName[ru_RU] = Клиент домена FreeIPA
 Packages = task-auth-freeipa freeipa-client certmonger systemd-units systemd-services libsss_sudo 

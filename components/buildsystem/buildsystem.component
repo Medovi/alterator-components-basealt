@@ -1,7 +1,7 @@
 [Alterator Entry]
 Type = Component
 Name = buildsystem
-Category = 70-dev
+Category = advanced
 DisplayName = Buildsystem
 DisplayName[ru_RU] = Сборка пакетов
 Packages = hasher mkimage fakeroot basesystem rpm-build sisyphus_check mkisofs squashfs-tools hasher hasher-priv time mkimage apt-utils builder-useradd 

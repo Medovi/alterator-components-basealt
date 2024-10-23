@@ -1,7 +1,7 @@
 [Alterator Entry]
 Type = Component
 Name = postgreSQL
-Category = category-1
+Category = advanced
 DisplayName = PostgreSQL
 DisplayName[ru_RU] = PostgreSQL
 Packages = admc 

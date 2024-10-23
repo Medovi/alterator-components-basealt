@@ -1,7 +1,7 @@
 [Alterator Entry]
 Type = Component
 Name = dns-server-samba
-Category = category-6
+Category = basic
 DisplayName = DNS server (SAMBA_INTERNAL)
 DisplayName[ru_RU] = Сервер DNS (SAMBA_INTERNAL)
 Packages = admc 

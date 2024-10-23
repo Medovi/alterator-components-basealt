@@ -1,7 +1,7 @@
 [Alterator Entry]
 Type = Component
 Name = systemd-networkd
-Category = 901-net-if-mgt
+Category = internal
 DisplayName = Systemd-network
 DisplayName[ru_RU] = Systemd-networkd
 Packages = systemd-networkd 

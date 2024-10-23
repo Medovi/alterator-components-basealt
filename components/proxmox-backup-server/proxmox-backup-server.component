@@ -1,7 +1,7 @@
 [Alterator Entry]
 Type = Component
 Name = proxmox-backup-server
-Category = 20-server-apps
+Category = basic
 DisplayName = Proxmox backup server
 DisplayName[ru_RU] = Сервер резервного копирования от проекта Proxmox 
 Packages = proxmox-backup-server 

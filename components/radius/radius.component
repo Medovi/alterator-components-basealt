@@ -1,7 +1,7 @@
 [Alterator Entry]
 Type = Component
 Name = radius
-Category = 20-server-apps
+Category = basic
 DisplayName = Radius Authentication Server
 DisplayName[ru_RU] = Сервер аутентификации Radius
 Packages = admc 

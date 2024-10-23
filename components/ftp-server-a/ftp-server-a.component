@@ -1,7 +1,7 @@
 [Alterator Entry]
 Type = Component
 Name = ftp-server-a
-Category = 10-alterator
+Category = basic
 DisplayName = FTP server
 DisplayName[ru_RU] = Сервер FTP
 Packages = alterator-vsftpd alterator-services 

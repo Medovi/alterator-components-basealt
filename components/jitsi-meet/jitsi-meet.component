@@ -1,7 +1,7 @@
 [Alterator Entry]
 Type = Component
 Name = jitsi-meet
-Category = 20-server-apps
+Category = advanced
 DisplayName = Jitsi Meet Videconferecing
 DisplayName[ru_RU] = Сервер видеоконференций Jitsi Meet
 Packages = prosody jitsi-meet-prosody jitsi-meet-web jitsi-meet-web-config jicofo jitsi-videobridge 

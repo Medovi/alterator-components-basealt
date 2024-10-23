@@ -1,0 +1,3 @@
+# Компонент printers
+
+Это printers

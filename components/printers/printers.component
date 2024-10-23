@@ -1,0 +1,7 @@
+[Alterator Entry]
+Type = Component
+Name = printers
+Category = category-7
+DisplayName = Printers server
+DisplayName[ru_RU] = Сервер печати
+Packages = cups 

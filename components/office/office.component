@@ -1,7 +1,7 @@
 [Alterator Entry]
 Type = Component
 Name = office
-Category = 
+Category = category-9
 DisplayName = Office packages
 DisplayName[ru_RU] = Офисный пакет
 Packages = dia LibreOffice LibreOffice-langpack-ru LibreOffice-langpack-uk LibreOffice-gnome 

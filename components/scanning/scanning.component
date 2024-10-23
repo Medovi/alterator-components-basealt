@@ -1,7 +1,7 @@
 [Alterator Entry]
 Type = Component
 Name = scanning
-Category = 
+Category = category-8
 DisplayName = Scanning
 DisplayName[ru_RU] = Поддержка сканеров
 Packages = xsane gimagereader-qt5 tesseract tesseract-langpack-ru tesseract-langpack-en sane-airscan 

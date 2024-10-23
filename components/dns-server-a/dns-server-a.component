@@ -1,7 +1,7 @@
 [Alterator Entry]
 Type = Component
 Name = dns-server-a
-Category = 10-alterator
-DisplayName = DNS server
-DisplayName[ru_RU] = Сервер DNS
+Category = category-6
+DisplayName = DNS server (BIND9_DLZ)
+DisplayName[ru_RU] = Сервер DNS (BIND9_DLZ)
 Packages = alterator-bind installer-feature-resolver-bind-stage3 openresolv-bind 
